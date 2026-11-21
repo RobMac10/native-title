@@ -10,4 +10,5 @@ Care: the opener carries a care note with 13YARN and Lifeline. No photographs of
 
 Images: Native Title Act 1993 pages from the Federal Register of Legislation (CC BY 4.0).
 
-Not published. `noindex` and `robots.txt` block indexing. Draft, pending consultation.
+Search engines are asked not to index this app (`noindex` and `robots.txt`).
+
